@@ -52,3 +52,13 @@ Business Logic: Removed records where the square footage per bedroom is signific
 Statistical Outliers: Using mean and standard deviation per location to filter out extreme price_per_sqft values.
 
 Bedroom/Price Logic: Removed 2 BHK apartments that are significantly more expensive than 3 BHK apartments in the same area with similar square footage.
+
+### 4. Model Building
+The project uses GridSearchCV to iterate through various algorithms and hyperparameters to find the best performing model.
+
+Algorithms considered: Linear Regression, Lasso Regression, and Decision Tree Regressor (implied by the find_best_model structure).
+
+Evaluation: The models are evaluated using K-Fold Cross Validation.
+
+
+## Author: Moein Gazestani
