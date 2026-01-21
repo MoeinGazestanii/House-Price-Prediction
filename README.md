@@ -2,10 +2,10 @@
 Bengaluru House Price Prediction
 This project is a machine learning pipeline capable of predicting house prices in Bengaluru, India. It analyzes a dataset of real estate transactions, cleans and processes the data, detects outliers, and utilizes machine learning algorithms to estimate property prices based on features like location, square footage, bathrooms, and BHK (bedrooms, hall, kitchen).
 
-#📌 Project Overview
+# 📌 Project Overview
 The goal of this project is to build a model that provides accurate price estimates for home buyers and sellers. The notebook covers the entire end-to-end process from data loading to model selection using GridSearchCV.
 
-#Technologies Used
+# Technologies Used
 Python
 
 Pandas (Data manipulation and cleaning)
