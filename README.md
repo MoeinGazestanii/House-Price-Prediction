@@ -61,4 +61,4 @@ Algorithms considered: Linear Regression, Lasso Regression, and Decision Tree Re
 Evaluation: The models are evaluated using K-Fold Cross Validation.
 
 
-## Author: Moein Gazestani
+**Author:** Moein Gazestani
